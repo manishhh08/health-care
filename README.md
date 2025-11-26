@@ -1,1 +1,1 @@
-# health-care
+Codebase for health and care application
