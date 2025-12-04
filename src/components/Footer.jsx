@@ -10,9 +10,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-gradient-hero rounded-lg flex items-center justify-center">
                 <Heart className="text-primary-foreground" size={18} />
               </div>
-              <span className="font-bold text-lg text-foreground">
-                HealthSearch
-              </span>
+              <span className="font-bold text-lg text-foreground">H&SOS</span>
             </div>
             <p className="text-muted-foreground text-sm">
               Your trusted source for evidence-based health information.
@@ -100,7 +98,7 @@ const Footer = () => {
 
         <div className="pt-8 border-t border-border text-center text-sm text-muted-foreground">
           <p>
-            © 2024 HealthSearch. All rights reserved. This platform is for
+            © 2025 H&SOS. All rights reserved. This platform is for
             informational purposes only and is not a substitute for professional
             medical advice.
           </p>
