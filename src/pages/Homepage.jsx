@@ -1,14 +1,17 @@
+import Feature from "../components/Feature";
+import Footer from "../components/Footer";
 import IntroSection from "../components/IntroSection";
-import SearchBar from "../components/SearchBar";
-import Services from "../components/Services";
+import Join from "../components/Join";
+import Works from "../components/Works";
 
 const Homepage = () => {
   return (
     <>
-      <div>Homepage</div>
-      <SearchBar />
       <IntroSection />
-      <Services />
+      <Feature />
+      <Works />
+      <Join />
+      <Footer />
     </>
   );
 };
